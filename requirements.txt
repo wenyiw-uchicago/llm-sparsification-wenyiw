@@ -1,2 +1,9 @@
+evaluate
 transformers
+datasets
 torch
+accelerate
+sacrebleu
+tensorboard
+sentencepiece
+scikit-learn
