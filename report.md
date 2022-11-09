@@ -31,7 +31,7 @@ _p_ percentage of connections across the whole model.
 
 ## Benchmarking the Sparsified Models
 I selected 5 sets of benchmarks.
-- GLUE benchmarks are sued by both GPT2 and Deberta-v2.
+- GLUE benchmarks are used by both GPT2 and Deberta-v2.
 - Casual Language Modeling (CLM) for GPT2 from HF's language-modeling where they used that for fine-tuning the models.
 - Masked Language Modeling (MLM) for Deberta-v2, same as CLM
 - SQuaD_v2 QA benchmarks for T5, however, only the number of samples shown in the evaluation results, we ignore the results.
@@ -82,7 +82,7 @@ The exception occurs from the translation evaluation runtime for T5.
 
 ![t-rt](src/graphs/Translation-T5-runtime.png)
 ### ~~Question Answering (T5)~~
-Not available.
+Not available, the evaluation results file only contains sample count.
 
 ## Challenges of sparsifications on LLMs
 One of the most obvious challenges of sparsifications on LLMs are the what, how, when, and how often to prune the model.
