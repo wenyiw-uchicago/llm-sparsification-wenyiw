@@ -1,5 +1,5 @@
 #!/bin/bash
-trans_models=( t5-small )
+trans_models=( t5-base )
 for m in "${trans_models[@]}"
 do
   python huggingface/transformers/examples/pytorch/translation/run_translation.py \

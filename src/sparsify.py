@@ -38,7 +38,7 @@ def flatten(el):
     return res
 
 
-def model_prune(model, amount=0.2):
+def model_prune(model, amount=0.1):
     modules = flatten(model)
 
     parameters_to_prune = [(m, n) for m in modules for n, p in m.named_parameters() if n.endswith('weight')]
@@ -87,5 +87,4 @@ if __name__ == '__main__':
 
     print("Parameter Count:", count_parameters(model))
 
-    pass
 

@@ -1,0 +1,263 @@
+Layer 0: Embedding(32128, 768) , (p>>0)n= 24122355 , (total)N= 24674304 ,fraction= 0.977630615234375
+Layer 1: Embedding(32128, 768) , (p>>0)n= 24122355 , (total)N= 24674304 ,fraction= 0.977630615234375
+Layer 2: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 0 , (total)N= 589824 ,fraction= 0.0
+Layer 3: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 47792 , (total)N= 589824 ,fraction= 0.0810275607638889
+Layer 4: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 36070 , (total)N= 589824 ,fraction= 0.06115383572048611
+Layer 5: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 87872 , (total)N= 589824 ,fraction= 0.1489800347222222
+Layer 6: Embedding(32, 12) , (p>>0)n= 313 , (total)N= 384 ,fraction= 0.8151041666666666
+Layer 7: T5LayerNorm() , (p>>0)n= 0 , (total)N= 768 ,fraction= 0.0
+Layer 8: Linear(in_features=768, out_features=3072, bias=False) , (p>>0)n= 406557 , (total)N= 2359296 ,fraction= 0.17232131958007812
+Layer 9: Linear(in_features=3072, out_features=768, bias=False) , (p>>0)n= 36859 , (total)N= 2359296 ,fraction= 0.015622880723741319
+Layer 10: T5LayerNorm() , (p>>0)n= 39 , (total)N= 768 ,fraction= 0.05078125
+Layer 11: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 0 , (total)N= 589824 ,fraction= 0.0
+Layer 12: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 42554 , (total)N= 589824 ,fraction= 0.0721469455295139
+Layer 13: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 66440 , (total)N= 589824 ,fraction= 0.1126437717013889
+Layer 14: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 115141 , (total)N= 589824 ,fraction= 0.1952124701605903
+Layer 15: T5LayerNorm() , (p>>0)n= 0 , (total)N= 768 ,fraction= 0.0
+Layer 16: Linear(in_features=768, out_features=3072, bias=False) , (p>>0)n= 454784 , (total)N= 2359296 ,fraction= 0.19276258680555555
+Layer 17: Linear(in_features=3072, out_features=768, bias=False) , (p>>0)n= 37455 , (total)N= 2359296 ,fraction= 0.015875498453776043
+Layer 18: T5LayerNorm() , (p>>0)n= 329 , (total)N= 768 ,fraction= 0.4283854166666667
+Layer 19: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 0 , (total)N= 589824 ,fraction= 0.0
+Layer 20: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 43888 , (total)N= 589824 ,fraction= 0.07440863715277778
+Layer 21: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 110167 , (total)N= 589824 ,fraction= 0.1867794460720486
+Layer 22: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 139537 , (total)N= 589824 ,fraction= 0.23657396104600695
+Layer 23: T5LayerNorm() , (p>>0)n= 0 , (total)N= 768 ,fraction= 0.0
+Layer 24: Linear(in_features=768, out_features=3072, bias=False) , (p>>0)n= 518924 , (total)N= 2359296 ,fraction= 0.2199486626519097
+Layer 25: Linear(in_features=3072, out_features=768, bias=False) , (p>>0)n= 49672 , (total)N= 2359296 ,fraction= 0.021053738064236112
+Layer 26: T5LayerNorm() , (p>>0)n= 755 , (total)N= 768 ,fraction= 0.9830729166666666
+Layer 27: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 0 , (total)N= 589824 ,fraction= 0.0
+Layer 28: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 40189 , (total)N= 589824 ,fraction= 0.06813727484809028
+Layer 29: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 115190 , (total)N= 589824 ,fraction= 0.19529554578993055
+Layer 30: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 136624 , (total)N= 589824 ,fraction= 0.2316351996527778
+Layer 31: T5LayerNorm() , (p>>0)n= 0 , (total)N= 768 ,fraction= 0.0
+Layer 32: Linear(in_features=768, out_features=3072, bias=False) , (p>>0)n= 574829 , (total)N= 2359296 ,fraction= 0.24364429050021702
+Layer 33: Linear(in_features=3072, out_features=768, bias=False) , (p>>0)n= 70184 , (total)N= 2359296 ,fraction= 0.029747856987847224
+Layer 34: T5LayerNorm() , (p>>0)n= 757 , (total)N= 768 ,fraction= 0.9856770833333334
+Layer 35: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 0 , (total)N= 589824 ,fraction= 0.0
+Layer 36: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 34438 , (total)N= 589824 ,fraction= 0.058386908637152776
+Layer 37: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 147068 , (total)N= 589824 ,fraction= 0.24934217664930555
+Layer 38: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 173215 , (total)N= 589824 ,fraction= 0.2936723497178819
+Layer 39: T5LayerNorm() , (p>>0)n= 0 , (total)N= 768 ,fraction= 0.0
+Layer 40: Linear(in_features=768, out_features=3072, bias=False) , (p>>0)n= 633029 , (total)N= 2359296 ,fraction= 0.2683126661512587
+Layer 41: Linear(in_features=3072, out_features=768, bias=False) , (p>>0)n= 105399 , (total)N= 2359296 ,fraction= 0.044673919677734375
+Layer 42: T5LayerNorm() , (p>>0)n= 757 , (total)N= 768 ,fraction= 0.9856770833333334
+Layer 43: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 0 , (total)N= 589824 ,fraction= 0.0
+Layer 44: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 33566 , (total)N= 589824 ,fraction= 0.056908501519097224
+Layer 45: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 165103 , (total)N= 589824 ,fraction= 0.2799190945095486
+Layer 46: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 197433 , (total)N= 589824 ,fraction= 0.3347320556640625
+Layer 47: T5LayerNorm() , (p>>0)n= 0 , (total)N= 768 ,fraction= 0.0
+Layer 48: Linear(in_features=768, out_features=3072, bias=False) , (p>>0)n= 674065 , (total)N= 2359296 ,fraction= 0.28570599026150173
+Layer 49: Linear(in_features=3072, out_features=768, bias=False) , (p>>0)n= 148673 , (total)N= 2359296 ,fraction= 0.06301583184136285
+Layer 50: T5LayerNorm() , (p>>0)n= 758 , (total)N= 768 ,fraction= 0.9869791666666666
+Layer 51: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 0 , (total)N= 589824 ,fraction= 0.0
+Layer 52: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 30897 , (total)N= 589824 ,fraction= 0.0523834228515625
+Layer 53: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 200781 , (total)N= 589824 ,fraction= 0.3404083251953125
+Layer 54: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 225921 , (total)N= 589824 ,fraction= 0.3830312093098958
+Layer 55: T5LayerNorm() , (p>>0)n= 0 , (total)N= 768 ,fraction= 0.0
+Layer 56: Linear(in_features=768, out_features=3072, bias=False) , (p>>0)n= 709107 , (total)N= 2359296 ,fraction= 0.30055872599283856
+Layer 57: Linear(in_features=3072, out_features=768, bias=False) , (p>>0)n= 188261 , (total)N= 2359296 ,fraction= 0.07979541354709202
+Layer 58: T5LayerNorm() , (p>>0)n= 757 , (total)N= 768 ,fraction= 0.9856770833333334
+Layer 59: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 0 , (total)N= 589824 ,fraction= 0.0
+Layer 60: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 33099 , (total)N= 589824 ,fraction= 0.056116739908854164
+Layer 61: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 218425 , (total)N= 589824 ,fraction= 0.3703223334418403
+Layer 62: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 246044 , (total)N= 589824 ,fraction= 0.4171481662326389
+Layer 63: T5LayerNorm() , (p>>0)n= 0 , (total)N= 768 ,fraction= 0.0
+Layer 64: Linear(in_features=768, out_features=3072, bias=False) , (p>>0)n= 797925 , (total)N= 2359296 ,fraction= 0.33820470174153644
+Layer 65: Linear(in_features=3072, out_features=768, bias=False) , (p>>0)n= 240145 , (total)N= 2359296 ,fraction= 0.1017867194281684
+Layer 66: T5LayerNorm() , (p>>0)n= 756 , (total)N= 768 ,fraction= 0.984375
+Layer 67: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 0 , (total)N= 589824 ,fraction= 0.0
+Layer 68: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 36693 , (total)N= 589824 ,fraction= 0.0622100830078125
+Layer 69: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 252102 , (total)N= 589824 ,fraction= 0.4274190266927083
+Layer 70: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 267694 , (total)N= 589824 ,fraction= 0.4538540310329861
+Layer 71: T5LayerNorm() , (p>>0)n= 0 , (total)N= 768 ,fraction= 0.0
+Layer 72: Linear(in_features=768, out_features=3072, bias=False) , (p>>0)n= 841364 , (total)N= 2359296 ,fraction= 0.3566165500217014
+Layer 73: Linear(in_features=3072, out_features=768, bias=False) , (p>>0)n= 281033 , (total)N= 2359296 ,fraction= 0.11911731296115452
+Layer 74: T5LayerNorm() , (p>>0)n= 759 , (total)N= 768 ,fraction= 0.98828125
+Layer 75: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 0 , (total)N= 589824 ,fraction= 0.0
+Layer 76: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 26334 , (total)N= 589824 ,fraction= 0.044647216796875
+Layer 77: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 243605 , (total)N= 589824 ,fraction= 0.4130130343967014
+Layer 78: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 263594 , (total)N= 589824 ,fraction= 0.4469028049045139
+Layer 79: T5LayerNorm() , (p>>0)n= 0 , (total)N= 768 ,fraction= 0.0
+Layer 80: Linear(in_features=768, out_features=3072, bias=False) , (p>>0)n= 876340 , (total)N= 2359296 ,fraction= 0.3714413113064236
+Layer 81: Linear(in_features=3072, out_features=768, bias=False) , (p>>0)n= 291344 , (total)N= 2359296 ,fraction= 0.12348768446180555
+Layer 82: T5LayerNorm() , (p>>0)n= 764 , (total)N= 768 ,fraction= 0.9947916666666666
+Layer 83: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 0 , (total)N= 589824 ,fraction= 0.0
+Layer 84: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 26481 , (total)N= 589824 ,fraction= 0.044896443684895836
+Layer 85: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 257229 , (total)N= 589824 ,fraction= 0.4361114501953125
+Layer 86: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 301756 , (total)N= 589824 ,fraction= 0.5116034613715278
+Layer 87: T5LayerNorm() , (p>>0)n= 0 , (total)N= 768 ,fraction= 0.0
+Layer 88: Linear(in_features=768, out_features=3072, bias=False) , (p>>0)n= 916262 , (total)N= 2359296 ,fraction= 0.38836246066623265
+Layer 89: Linear(in_features=3072, out_features=768, bias=False) , (p>>0)n= 262687 , (total)N= 2359296 ,fraction= 0.11134126451280382
+Layer 90: T5LayerNorm() , (p>>0)n= 764 , (total)N= 768 ,fraction= 0.9947916666666666
+Layer 91: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 0 , (total)N= 589824 ,fraction= 0.0
+Layer 92: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 32372 , (total)N= 589824 ,fraction= 0.05488416883680555
+Layer 93: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 297370 , (total)N= 589824 ,fraction= 0.5041673448350694
+Layer 94: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 337487 , (total)N= 589824 ,fraction= 0.5721825493706597
+Layer 95: T5LayerNorm() , (p>>0)n= 0 , (total)N= 768 ,fraction= 0.0
+Layer 96: Linear(in_features=768, out_features=3072, bias=False) , (p>>0)n= 975557 , (total)N= 2359296 ,fraction= 0.41349495781792533
+Layer 97: Linear(in_features=3072, out_features=768, bias=False) , (p>>0)n= 336098 , (total)N= 2359296 ,fraction= 0.14245690239800346
+Layer 98: T5LayerNorm() , (p>>0)n= 747 , (total)N= 768 ,fraction= 0.97265625
+Layer 99: T5LayerNorm() , (p>>0)n= 12 , (total)N= 768 ,fraction= 0.015625
+Layer 100: Embedding(32128, 768) , (p>>0)n= 24122355 , (total)N= 24674304 ,fraction= 0.977630615234375
+Layer 101: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 0 , (total)N= 589824 ,fraction= 0.0
+Layer 102: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 96589 , (total)N= 589824 ,fraction= 0.16375901963975695
+Layer 103: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 50447 , (total)N= 589824 ,fraction= 0.0855289035373264
+Layer 104: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 117709 , (total)N= 589824 ,fraction= 0.1995663113064236
+Layer 105: Embedding(32, 12) , (p>>0)n= 329 , (total)N= 384 ,fraction= 0.8567708333333334
+Layer 106: T5LayerNorm() , (p>>0)n= 0 , (total)N= 768 ,fraction= 0.0
+Layer 107: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 0 , (total)N= 589824 ,fraction= 0.0
+Layer 108: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 33799 , (total)N= 589824 ,fraction= 0.057303534613715276
+Layer 109: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 22756 , (total)N= 589824 ,fraction= 0.038581000434027776
+Layer 110: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 92104 , (total)N= 589824 ,fraction= 0.1561550564236111
+Layer 111: T5LayerNorm() , (p>>0)n= 0 , (total)N= 768 ,fraction= 0.0
+Layer 112: Linear(in_features=768, out_features=3072, bias=False) , (p>>0)n= 464115 , (total)N= 2359296 ,fraction= 0.19671758015950522
+Layer 113: Linear(in_features=3072, out_features=768, bias=False) , (p>>0)n= 43605 , (total)N= 2359296 ,fraction= 0.018482208251953125
+Layer 114: T5LayerNorm() , (p>>0)n= 680 , (total)N= 768 ,fraction= 0.8854166666666666
+Layer 115: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 0 , (total)N= 589824 ,fraction= 0.0
+Layer 116: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 61323 , (total)N= 589824 ,fraction= 0.10396830240885417
+Layer 117: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 121350 , (total)N= 589824 ,fraction= 0.20573933919270834
+Layer 118: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 171061 , (total)N= 589824 ,fraction= 0.2900204128689236
+Layer 119: T5LayerNorm() , (p>>0)n= 0 , (total)N= 768 ,fraction= 0.0
+Layer 120: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 0 , (total)N= 589824 ,fraction= 0.0
+Layer 121: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 60415 , (total)N= 589824 ,fraction= 0.1024288601345486
+Layer 122: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 65633 , (total)N= 589824 ,fraction= 0.11127556694878472
+Layer 123: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 106209 , (total)N= 589824 ,fraction= 0.1800689697265625
+Layer 124: T5LayerNorm() , (p>>0)n= 0 , (total)N= 768 ,fraction= 0.0
+Layer 125: Linear(in_features=768, out_features=3072, bias=False) , (p>>0)n= 644651 , (total)N= 2359296 ,fraction= 0.27323871188693577
+Layer 126: Linear(in_features=3072, out_features=768, bias=False) , (p>>0)n= 84853 , (total)N= 2359296 ,fraction= 0.03596538967556424
+Layer 127: T5LayerNorm() , (p>>0)n= 742 , (total)N= 768 ,fraction= 0.9661458333333334
+Layer 128: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 0 , (total)N= 589824 ,fraction= 0.0
+Layer 129: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 38873 , (total)N= 589824 ,fraction= 0.0659061008029514
+Layer 130: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 186616 , (total)N= 589824 ,fraction= 0.3163926866319444
+Layer 131: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 216646 , (total)N= 589824 ,fraction= 0.3673061794704861
+Layer 132: T5LayerNorm() , (p>>0)n= 0 , (total)N= 768 ,fraction= 0.0
+Layer 133: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 0 , (total)N= 589824 ,fraction= 0.0
+Layer 134: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 50279 , (total)N= 589824 ,fraction= 0.08524407280815972
+Layer 135: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 107913 , (total)N= 589824 ,fraction= 0.18295796712239584
+Layer 136: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 111992 , (total)N= 589824 ,fraction= 0.1898735894097222
+Layer 137: T5LayerNorm() , (p>>0)n= 0 , (total)N= 768 ,fraction= 0.0
+Layer 138: Linear(in_features=768, out_features=3072, bias=False) , (p>>0)n= 705144 , (total)N= 2359296 ,fraction= 0.2988789876302083
+Layer 139: Linear(in_features=3072, out_features=768, bias=False) , (p>>0)n= 111888 , (total)N= 2359296 ,fraction= 0.04742431640625
+Layer 140: T5LayerNorm() , (p>>0)n= 758 , (total)N= 768 ,fraction= 0.9869791666666666
+Layer 141: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 0 , (total)N= 589824 ,fraction= 0.0
+Layer 142: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 30192 , (total)N= 589824 ,fraction= 0.051188151041666664
+Layer 143: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 197326 , (total)N= 589824 ,fraction= 0.3345506456163194
+Layer 144: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 234637 , (total)N= 589824 ,fraction= 0.3978084988064236
+Layer 145: T5LayerNorm() , (p>>0)n= 0 , (total)N= 768 ,fraction= 0.0
+Layer 146: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 0 , (total)N= 589824 ,fraction= 0.0
+Layer 147: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 63300 , (total)N= 589824 ,fraction= 0.10732014973958333
+Layer 148: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 127484 , (total)N= 589824 ,fraction= 0.21613905164930555
+Layer 149: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 132118 , (total)N= 589824 ,fraction= 0.2239956325954861
+Layer 150: T5LayerNorm() , (p>>0)n= 0 , (total)N= 768 ,fraction= 0.0
+Layer 151: Linear(in_features=768, out_features=3072, bias=False) , (p>>0)n= 692382 , (total)N= 2359296 ,fraction= 0.29346974690755206
+Layer 152: Linear(in_features=3072, out_features=768, bias=False) , (p>>0)n= 134386 , (total)N= 2359296 ,fraction= 0.056960211859809026
+Layer 153: T5LayerNorm() , (p>>0)n= 764 , (total)N= 768 ,fraction= 0.9947916666666666
+Layer 154: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 0 , (total)N= 589824 ,fraction= 0.0
+Layer 155: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 32759 , (total)N= 589824 ,fraction= 0.05554029676649305
+Layer 156: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 233404 , (total)N= 589824 ,fraction= 0.3957180447048611
+Layer 157: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 268554 , (total)N= 589824 ,fraction= 0.4553120930989583
+Layer 158: T5LayerNorm() , (p>>0)n= 0 , (total)N= 768 ,fraction= 0.0
+Layer 159: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 0 , (total)N= 589824 ,fraction= 0.0
+Layer 160: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 68502 , (total)N= 589824 ,fraction= 0.11613972981770833
+Layer 161: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 142230 , (total)N= 589824 ,fraction= 0.24113972981770834
+Layer 162: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 148792 , (total)N= 589824 ,fraction= 0.2522650824652778
+Layer 163: T5LayerNorm() , (p>>0)n= 0 , (total)N= 768 ,fraction= 0.0
+Layer 164: Linear(in_features=768, out_features=3072, bias=False) , (p>>0)n= 669292 , (total)N= 2359296 ,fraction= 0.2836829291449653
+Layer 165: Linear(in_features=3072, out_features=768, bias=False) , (p>>0)n= 134060 , (total)N= 2359296 ,fraction= 0.05682203504774305
+Layer 166: T5LayerNorm() , (p>>0)n= 764 , (total)N= 768 ,fraction= 0.9947916666666666
+Layer 167: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 0 , (total)N= 589824 ,fraction= 0.0
+Layer 168: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 38559 , (total)N= 589824 ,fraction= 0.06537373860677083
+Layer 169: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 264795 , (total)N= 589824 ,fraction= 0.4489390055338542
+Layer 170: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 304913 , (total)N= 589824 ,fraction= 0.5169559054904513
+Layer 171: T5LayerNorm() , (p>>0)n= 0 , (total)N= 768 ,fraction= 0.0
+Layer 172: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 0 , (total)N= 589824 ,fraction= 0.0
+Layer 173: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 94876 , (total)N= 589824 ,fraction= 0.1608547634548611
+Layer 174: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 179955 , (total)N= 589824 ,fraction= 0.3050994873046875
+Layer 175: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 166669 , (total)N= 589824 ,fraction= 0.2825741238064236
+Layer 176: T5LayerNorm() , (p>>0)n= 0 , (total)N= 768 ,fraction= 0.0
+Layer 177: Linear(in_features=768, out_features=3072, bias=False) , (p>>0)n= 656767 , (total)N= 2359296 ,fraction= 0.2783741421169705
+Layer 178: Linear(in_features=3072, out_features=768, bias=False) , (p>>0)n= 152811 , (total)N= 2359296 ,fraction= 0.06476974487304688
+Layer 179: T5LayerNorm() , (p>>0)n= 765 , (total)N= 768 ,fraction= 0.99609375
+Layer 180: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 0 , (total)N= 589824 ,fraction= 0.0
+Layer 181: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 30405 , (total)N= 589824 ,fraction= 0.051549275716145836
+Layer 182: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 279104 , (total)N= 589824 ,fraction= 0.4731987847222222
+Layer 183: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 354924 , (total)N= 589824 ,fraction= 0.60174560546875
+Layer 184: T5LayerNorm() , (p>>0)n= 0 , (total)N= 768 ,fraction= 0.0
+Layer 185: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 0 , (total)N= 589824 ,fraction= 0.0
+Layer 186: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 93614 , (total)N= 589824 ,fraction= 0.1587151421440972
+Layer 187: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 203833 , (total)N= 589824 ,fraction= 0.3455827501085069
+Layer 188: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 197015 , (total)N= 589824 ,fraction= 0.3340233696831597
+Layer 189: T5LayerNorm() , (p>>0)n= 0 , (total)N= 768 ,fraction= 0.0
+Layer 190: Linear(in_features=768, out_features=3072, bias=False) , (p>>0)n= 645481 , (total)N= 2359296 ,fraction= 0.27359051174587673
+Layer 191: Linear(in_features=3072, out_features=768, bias=False) , (p>>0)n= 157382 , (total)N= 2359296 ,fraction= 0.06670718722873265
+Layer 192: T5LayerNorm() , (p>>0)n= 764 , (total)N= 768 ,fraction= 0.9947916666666666
+Layer 193: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 0 , (total)N= 589824 ,fraction= 0.0
+Layer 194: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 28139 , (total)N= 589824 ,fraction= 0.047707451714409724
+Layer 195: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 289086 , (total)N= 589824 ,fraction= 0.4901224772135417
+Layer 196: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 361490 , (total)N= 589824 ,fraction= 0.6128777398003472
+Layer 197: T5LayerNorm() , (p>>0)n= 0 , (total)N= 768 ,fraction= 0.0
+Layer 198: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 0 , (total)N= 589824 ,fraction= 0.0
+Layer 199: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 103307 , (total)N= 589824 ,fraction= 0.1751488579644097
+Layer 200: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 245918 , (total)N= 589824 ,fraction= 0.4169345431857639
+Layer 201: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 257926 , (total)N= 589824 ,fraction= 0.4372931586371528
+Layer 202: T5LayerNorm() , (p>>0)n= 0 , (total)N= 768 ,fraction= 0.0
+Layer 203: Linear(in_features=768, out_features=3072, bias=False) , (p>>0)n= 624792 , (total)N= 2359296 ,fraction= 0.2648213704427083
+Layer 204: Linear(in_features=3072, out_features=768, bias=False) , (p>>0)n= 159899 , (total)N= 2359296 ,fraction= 0.06777403089735243
+Layer 205: T5LayerNorm() , (p>>0)n= 764 , (total)N= 768 ,fraction= 0.9947916666666666
+Layer 206: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 0 , (total)N= 589824 ,fraction= 0.0
+Layer 207: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 34757 , (total)N= 589824 ,fraction= 0.05892774793836805
+Layer 208: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 301276 , (total)N= 589824 ,fraction= 0.5107896592881944
+Layer 209: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 375301 , (total)N= 589824 ,fraction= 0.6362931993272569
+Layer 210: T5LayerNorm() , (p>>0)n= 1 , (total)N= 768 ,fraction= 0.0013020833333333333
+Layer 211: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 0 , (total)N= 589824 ,fraction= 0.0
+Layer 212: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 95527 , (total)N= 589824 ,fraction= 0.16195848253038195
+Layer 213: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 269728 , (total)N= 589824 ,fraction= 0.4573025173611111
+Layer 214: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 282375 , (total)N= 589824 ,fraction= 0.4787445068359375
+Layer 215: T5LayerNorm() , (p>>0)n= 0 , (total)N= 768 ,fraction= 0.0
+Layer 216: Linear(in_features=768, out_features=3072, bias=False) , (p>>0)n= 638199 , (total)N= 2359296 ,fraction= 0.2705039978027344
+Layer 217: Linear(in_features=3072, out_features=768, bias=False) , (p>>0)n= 160648 , (total)N= 2359296 ,fraction= 0.06809149848090278
+Layer 218: T5LayerNorm() , (p>>0)n= 765 , (total)N= 768 ,fraction= 0.99609375
+Layer 219: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 0 , (total)N= 589824 ,fraction= 0.0
+Layer 220: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 38847 , (total)N= 589824 ,fraction= 0.06586201985677083
+Layer 221: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 315658 , (total)N= 589824 ,fraction= 0.5351732042100694
+Layer 222: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 357986 , (total)N= 589824 ,fraction= 0.6069369845920138
+Layer 223: T5LayerNorm() , (p>>0)n= 2 , (total)N= 768 ,fraction= 0.0026041666666666665
+Layer 224: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 0 , (total)N= 589824 ,fraction= 0.0
+Layer 225: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 117888 , (total)N= 589824 ,fraction= 0.19986979166666666
+Layer 226: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 308060 , (total)N= 589824 ,fraction= 0.5222913953993056
+Layer 227: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 307488 , (total)N= 589824 ,fraction= 0.5213216145833334
+Layer 228: T5LayerNorm() , (p>>0)n= 0 , (total)N= 768 ,fraction= 0.0
+Layer 229: Linear(in_features=768, out_features=3072, bias=False) , (p>>0)n= 733911 , (total)N= 2359296 ,fraction= 0.31107203165690106
+Layer 230: Linear(in_features=3072, out_features=768, bias=False) , (p>>0)n= 180678 , (total)N= 2359296 ,fraction= 0.07658131917317708
+Layer 231: T5LayerNorm() , (p>>0)n= 764 , (total)N= 768 ,fraction= 0.9947916666666666
+Layer 232: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 0 , (total)N= 589824 ,fraction= 0.0
+Layer 233: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 32392 , (total)N= 589824 ,fraction= 0.05491807725694445
+Layer 234: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 323306 , (total)N= 589824 ,fraction= 0.5481397840711806
+Layer 235: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 368105 , (total)N= 589824 ,fraction= 0.6240929497612847
+Layer 236: T5LayerNorm() , (p>>0)n= 4 , (total)N= 768 ,fraction= 0.005208333333333333
+Layer 237: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 0 , (total)N= 589824 ,fraction= 0.0
+Layer 238: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 105692 , (total)N= 589824 ,fraction= 0.1791924370659722
+Layer 239: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 324827 , (total)N= 589824 ,fraction= 0.5507185194227431
+Layer 240: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 308845 , (total)N= 589824 ,fraction= 0.5236223008897569
+Layer 241: T5LayerNorm() , (p>>0)n= 0 , (total)N= 768 ,fraction= 0.0
+Layer 242: Linear(in_features=768, out_features=3072, bias=False) , (p>>0)n= 841081 , (total)N= 2359296 ,fraction= 0.35649659898546004
+Layer 243: Linear(in_features=3072, out_features=768, bias=False) , (p>>0)n= 225845 , (total)N= 2359296 ,fraction= 0.09572558932834202
+Layer 244: T5LayerNorm() , (p>>0)n= 762 , (total)N= 768 ,fraction= 0.9921875
+Layer 245: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 0 , (total)N= 589824 ,fraction= 0.0
+Layer 246: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 33410 , (total)N= 589824 ,fraction= 0.05664401584201389
+Layer 247: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 288291 , (total)N= 589824 ,fraction= 0.4887746175130208
+Layer 248: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 330890 , (total)N= 589824 ,fraction= 0.5609978569878472
+Layer 249: T5LayerNorm() , (p>>0)n= 63 , (total)N= 768 ,fraction= 0.08203125
+Layer 250: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 0 , (total)N= 589824 ,fraction= 0.0
+Layer 251: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 66995 , (total)N= 589824 ,fraction= 0.11358473036024305
+Layer 252: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 384411 , (total)N= 589824 ,fraction= 0.6517384847005209
+Layer 253: Linear(in_features=768, out_features=768, bias=False) , (p>>0)n= 335509 , (total)N= 589824 ,fraction= 0.5688290066189237
+Layer 254: T5LayerNorm() , (p>>0)n= 3 , (total)N= 768 ,fraction= 0.00390625
+Layer 255: Linear(in_features=768, out_features=3072, bias=False) , (p>>0)n= 930680 , (total)N= 2359296 ,fraction= 0.3944736056857639
+Layer 256: Linear(in_features=3072, out_features=768, bias=False) , (p>>0)n= 299090 , (total)N= 2359296 ,fraction= 0.12677086724175346
+Layer 257: T5LayerNorm() , (p>>0)n= 765 , (total)N= 768 ,fraction= 0.99609375
+Layer 258: T5LayerNorm() , (p>>0)n= 30 , (total)N= 768 ,fraction= 0.0390625
+Layer 259: Linear(in_features=768, out_features=32128, bias=False) , (p>>0)n= 24122355 , (total)N= 24674304 ,fraction= 0.977630615234375
+Total Number >> 0: 134648644
+Model Total Parameters: 222903552
+Fraction:  0.6040668387375002

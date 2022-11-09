@@ -1,6 +1,6 @@
 #!/bin/bash
 
-qa_models=( t5-small )
+qa_models=( t5-base )
 for m in "${qa_models[@]}"
 do
 python huggingface/transformers/examples/pytorch/question-answering/run_seq2seq_qa.py \

@@ -1,0 +1,79 @@
+Layer 0: Embedding(50257, 768) , (p>>0)n= 67255 , (total)N= 38597376 ,fraction= 0.0017424759652055104
+Layer 1: Embedding(1024, 768) , (p>>0)n= 15898 , (total)N= 786432 ,fraction= 0.020215352376302082
+Layer 2: LayerNorm((768,), eps=1e-05, elementwise_affine=True) , (p>>0)n= 0 , (total)N= 768 ,fraction= 0.0
+Layer 3: Conv1D() , (p>>0)n= 55595 , (total)N= 1769472 ,fraction= 0.031418976960358794
+Layer 4: Conv1D() , (p>>0)n= 9863 , (total)N= 589824 ,fraction= 0.016721937391493056
+Layer 5: LayerNorm((768,), eps=1e-05, elementwise_affine=True) , (p>>0)n= 522 , (total)N= 768 ,fraction= 0.6796875
+Layer 6: Conv1D() , (p>>0)n= 7256 , (total)N= 2359296 ,fraction= 0.003075493706597222
+Layer 7: Conv1D() , (p>>0)n= 1717 , (total)N= 2359296 ,fraction= 0.0007277594672309028
+Layer 8: LayerNorm((768,), eps=1e-05, elementwise_affine=True) , (p>>0)n= 8 , (total)N= 768 ,fraction= 0.010416666666666666
+Layer 9: Conv1D() , (p>>0)n= 10004 , (total)N= 1769472 ,fraction= 0.005653663917824074
+Layer 10: Conv1D() , (p>>0)n= 1129 , (total)N= 589824 ,fraction= 0.0019141303168402778
+Layer 11: LayerNorm((768,), eps=1e-05, elementwise_affine=True) , (p>>0)n= 0 , (total)N= 768 ,fraction= 0.0
+Layer 12: Conv1D() , (p>>0)n= 3269 , (total)N= 2359296 ,fraction= 0.0013855828179253472
+Layer 13: Conv1D() , (p>>0)n= 1316 , (total)N= 2359296 ,fraction= 0.0005577935112847222
+Layer 14: LayerNorm((768,), eps=1e-05, elementwise_affine=True) , (p>>0)n= 14 , (total)N= 768 ,fraction= 0.018229166666666668
+Layer 15: Conv1D() , (p>>0)n= 15002 , (total)N= 1769472 ,fraction= 0.00847823531539352
+Layer 16: Conv1D() , (p>>0)n= 427 , (total)N= 589824 ,fraction= 0.0007239447699652778
+Layer 17: LayerNorm((768,), eps=1e-05, elementwise_affine=True) , (p>>0)n= 1 , (total)N= 768 ,fraction= 0.0013020833333333333
+Layer 18: Conv1D() , (p>>0)n= 2577 , (total)N= 2359296 ,fraction= 0.0010922749837239583
+Layer 19: Conv1D() , (p>>0)n= 1393 , (total)N= 2359296 ,fraction= 0.0005904303656684028
+Layer 20: LayerNorm((768,), eps=1e-05, elementwise_affine=True) , (p>>0)n= 4 , (total)N= 768 ,fraction= 0.005208333333333333
+Layer 21: Conv1D() , (p>>0)n= 3796 , (total)N= 1769472 ,fraction= 0.00214527271412037
+Layer 22: Conv1D() , (p>>0)n= 266 , (total)N= 589824 ,fraction= 0.00045098198784722225
+Layer 23: LayerNorm((768,), eps=1e-05, elementwise_affine=True) , (p>>0)n= 1 , (total)N= 768 ,fraction= 0.0013020833333333333
+Layer 24: Conv1D() , (p>>0)n= 1209 , (total)N= 2359296 ,fraction= 0.0005124409993489584
+Layer 25: Conv1D() , (p>>0)n= 1186 , (total)N= 2359296 ,fraction= 0.0005026923285590278
+Layer 26: LayerNorm((768,), eps=1e-05, elementwise_affine=True) , (p>>0)n= 4 , (total)N= 768 ,fraction= 0.005208333333333333
+Layer 27: Conv1D() , (p>>0)n= 8788 , (total)N= 1769472 ,fraction= 0.004966453269675926
+Layer 28: Conv1D() , (p>>0)n= 273 , (total)N= 589824 ,fraction= 0.0004628499348958333
+Layer 29: LayerNorm((768,), eps=1e-05, elementwise_affine=True) , (p>>0)n= 1 , (total)N= 768 ,fraction= 0.0013020833333333333
+Layer 30: Conv1D() , (p>>0)n= 1390 , (total)N= 2359296 ,fraction= 0.0005891587999131945
+Layer 31: Conv1D() , (p>>0)n= 1129 , (total)N= 2359296 ,fraction= 0.00047853257921006944
+Layer 32: LayerNorm((768,), eps=1e-05, elementwise_affine=True) , (p>>0)n= 4 , (total)N= 768 ,fraction= 0.005208333333333333
+Layer 33: Conv1D() , (p>>0)n= 1521 , (total)N= 1769472 ,fraction= 0.0008595784505208334
+Layer 34: Conv1D() , (p>>0)n= 252 , (total)N= 589824 ,fraction= 0.00042724609375
+Layer 35: LayerNorm((768,), eps=1e-05, elementwise_affine=True) , (p>>0)n= 2 , (total)N= 768 ,fraction= 0.0026041666666666665
+Layer 36: Conv1D() , (p>>0)n= 970 , (total)N= 2359296 ,fraction= 0.00041113959418402775
+Layer 37: Conv1D() , (p>>0)n= 1148 , (total)N= 2359296 ,fraction= 0.00048658582899305556
+Layer 38: LayerNorm((768,), eps=1e-05, elementwise_affine=True) , (p>>0)n= 4 , (total)N= 768 ,fraction= 0.005208333333333333
+Layer 39: Conv1D() , (p>>0)n= 1051 , (total)N= 1769472 ,fraction= 0.0005939624927662037
+Layer 40: Conv1D() , (p>>0)n= 457 , (total)N= 589824 ,fraction= 0.0007748074001736111
+Layer 41: LayerNorm((768,), eps=1e-05, elementwise_affine=True) , (p>>0)n= 1 , (total)N= 768 ,fraction= 0.0013020833333333333
+Layer 42: Conv1D() , (p>>0)n= 743 , (total)N= 2359296 ,fraction= 0.00031492445203993056
+Layer 43: Conv1D() , (p>>0)n= 1702 , (total)N= 2359296 ,fraction= 0.0007214016384548611
+Layer 44: LayerNorm((768,), eps=1e-05, elementwise_affine=True) , (p>>0)n= 4 , (total)N= 768 ,fraction= 0.005208333333333333
+Layer 45: Conv1D() , (p>>0)n= 924 , (total)N= 1769472 ,fraction= 0.0005221896701388889
+Layer 46: Conv1D() , (p>>0)n= 536 , (total)N= 589824 ,fraction= 0.0009087456597222222
+Layer 47: LayerNorm((768,), eps=1e-05, elementwise_affine=True) , (p>>0)n= 1 , (total)N= 768 ,fraction= 0.0013020833333333333
+Layer 48: Conv1D() , (p>>0)n= 606 , (total)N= 2359296 ,fraction= 0.0002568562825520833
+Layer 49: Conv1D() , (p>>0)n= 2054 , (total)N= 2359296 ,fraction= 0.0008705986870659722
+Layer 50: LayerNorm((768,), eps=1e-05, elementwise_affine=True) , (p>>0)n= 4 , (total)N= 768 ,fraction= 0.005208333333333333
+Layer 51: Conv1D() , (p>>0)n= 587 , (total)N= 1769472 ,fraction= 0.00033173737702546296
+Layer 52: Conv1D() , (p>>0)n= 624 , (total)N= 589824 ,fraction= 0.0010579427083333333
+Layer 53: LayerNorm((768,), eps=1e-05, elementwise_affine=True) , (p>>0)n= 2 , (total)N= 768 ,fraction= 0.0026041666666666665
+Layer 54: Conv1D() , (p>>0)n= 550 , (total)N= 2359296 ,fraction= 0.00023312038845486112
+Layer 55: Conv1D() , (p>>0)n= 3908 , (total)N= 2359296 ,fraction= 0.0016564263237847222
+Layer 56: LayerNorm((768,), eps=1e-05, elementwise_affine=True) , (p>>0)n= 6 , (total)N= 768 ,fraction= 0.0078125
+Layer 57: Conv1D() , (p>>0)n= 626 , (total)N= 1769472 ,fraction= 0.00035377785011574077
+Layer 58: Conv1D() , (p>>0)n= 1136 , (total)N= 589824 ,fraction= 0.001925998263888889
+Layer 59: LayerNorm((768,), eps=1e-05, elementwise_affine=True) , (p>>0)n= 2 , (total)N= 768 ,fraction= 0.0026041666666666665
+Layer 60: Conv1D() , (p>>0)n= 583 , (total)N= 2359296 ,fraction= 0.00024710761176215275
+Layer 61: Conv1D() , (p>>0)n= 9106 , (total)N= 2359296 ,fraction= 0.003859625922309028
+Layer 62: LayerNorm((768,), eps=1e-05, elementwise_affine=True) , (p>>0)n= 13 , (total)N= 768 ,fraction= 0.016927083333333332
+Layer 63: Conv1D() , (p>>0)n= 909 , (total)N= 1769472 ,fraction= 0.0005137125651041666
+Layer 64: Conv1D() , (p>>0)n= 1550 , (total)N= 589824 ,fraction= 0.002627902560763889
+Layer 65: LayerNorm((768,), eps=1e-05, elementwise_affine=True) , (p>>0)n= 6 , (total)N= 768 ,fraction= 0.0078125
+Layer 66: Conv1D() , (p>>0)n= 714 , (total)N= 2359296 ,fraction= 0.0003026326497395833
+Layer 67: Conv1D() , (p>>0)n= 20004 , (total)N= 2359296 ,fraction= 0.008478800455729166
+Layer 68: LayerNorm((768,), eps=1e-05, elementwise_affine=True) , (p>>0)n= 200 , (total)N= 768 ,fraction= 0.2604166666666667
+Layer 69: Conv1D() , (p>>0)n= 2375 , (total)N= 1769472 ,fraction= 0.0013422082971643518
+Layer 70: Conv1D() , (p>>0)n= 4456 , (total)N= 589824 ,fraction= 0.007554796006944444
+Layer 71: LayerNorm((768,), eps=1e-05, elementwise_affine=True) , (p>>0)n= 341 , (total)N= 768 ,fraction= 0.4440104166666667
+Layer 72: Conv1D() , (p>>0)n= 1730 , (total)N= 2359296 ,fraction= 0.0007332695855034722
+Layer 73: Conv1D() , (p>>0)n= 35126 , (total)N= 2359296 ,fraction= 0.014888339572482638
+Layer 74: LayerNorm((768,), eps=1e-05, elementwise_affine=True) , (p>>0)n= 760 , (total)N= 768 ,fraction= 0.9895833333333334
+Layer 75: Linear(in_features=768, out_features=50257, bias=False) , (p>>0)n= 67255 , (total)N= 38597376 ,fraction= 0.0017424759652055104
+Total Number >> 0: 375846
+Model Total Parameters: 124439808
+Fraction:  0.003020303599311243

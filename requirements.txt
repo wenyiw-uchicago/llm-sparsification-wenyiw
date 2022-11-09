@@ -7,3 +7,4 @@ sacrebleu
 tensorboard
 sentencepiece
 scikit-learn
+matplotlib
