@@ -11,7 +11,7 @@ The following histograms illustrate the distribution of the parameters overall i
 The x-axis is the value of the parameters.
 ### GPT2 Parameter Distribution (Overall)
 
-![Image](src/graphs/gpt2_hist.png)
+![gpt2 hist](src/graphs/gpt2_hist.png)
 
 ### Deberta-v2 Parameter Distribution (Overall)
 
